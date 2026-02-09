@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FAQ accordion solution](https://rayaatta.github.com/FAQ-accordion/))
+- Solution URL: [FAQ accordion solution](https://rayaatta.github.com/FAQ-accordion/)
 - Live Site URL: [FAQ accordion live site](https://rayaatta.github.io/FAQ-accordion/)
 
 ## My process
