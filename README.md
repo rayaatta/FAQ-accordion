@@ -75,4 +75,4 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Website - [Raya Atta](https://rayaatta.github.io/My-portfolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rayaatta)
+- Frontend Mentor - [Raya Atta](https://www.frontendmentor.io/profile/rayaatta)
