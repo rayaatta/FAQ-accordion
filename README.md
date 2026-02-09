@@ -31,13 +31,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FAQ accordion solution](https://rayaatta.github.com/FAQ-accordion/))
+- Live Site URL: [FAQ accordion live site](https://rayaatta.github.io/FAQ-accordion/)
 
 ## My process
 
@@ -50,28 +50,29 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I got to use the details element...never used it before..I kid you not
+if they have the same name they cant be open at the same time.
+If you want one to be open by default ,add open inside the tag
 
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+<details name="faqs" open>
+        <summary> <span></span></summary>
+        <p>
+        </p>
+</details>
+<details name="faqs" >
+        <summary> <span></span></summary>
+        <p>
+        </p>
+</details>
+
+      
 ```
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Raya Atta](https://rayaatta.github.io/My-portfolio/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rayaatta)
